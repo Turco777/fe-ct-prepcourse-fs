@@ -226,8 +226,6 @@ function agregarMetodoCalculoDescuento(objetoProducto) {
    return objetoProducto.calcularPrecioDescuento(); */
 }
 
-
-
    /* let precio = objetoProducto.precio;
    let porcentajeDeDescuento = objetoProducto.porcentajeDeDescuento;
    objetoProducto.calcularPrecioProducto = () => {
